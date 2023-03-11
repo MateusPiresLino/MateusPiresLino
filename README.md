@@ -3,7 +3,8 @@
 <div>
    <a href="https://github.com/MateusPiresLino">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusPiresLino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   ![Mateus Lino GitHub stats]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPiresLino&hide_progress=true)](https://github.com/MateusPiresLino/github-readme-stats))
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPiresLino)](https://github.com/MateusPiresLino/github-readme-stats)
+ 
   </div>
 
   <div style="display: inline_block"><br>
