@@ -10,7 +10,7 @@
 
 ![Mateus Lino GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusPiresLino&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPiresLino)](https://github.com/MateusPiresLino/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPiresLino&layout=compact&langs_count=7&theme=radical)](https://github.com/MateusPiresLino/github-readme-stats)
 
 <br/>
 
